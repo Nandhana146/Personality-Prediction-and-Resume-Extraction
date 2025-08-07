@@ -1,0 +1,2 @@
+# Personality Prediction and Resume Extraction
+This project aims to predict individual personality traits from textual and behavioral data using machine learning models, while also extracting key information from résumés such as skills, education, and experience. By combining personality analysis with résumé parsing, it enables more effective candidate profiling and supports data-driven recruitment decisions. Built using Python, the project leverages libraries like Scikit-learn, Pandas, NLTK, and SpaCy for data preprocessing, natural language processing, and model training.
